@@ -1,0 +1,55 @@
+EliteOCR
+
+Copyright © 2014 Sebastian Kaminski
+
+-------------------------- GPLv3 ----------------------------------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-------------------------------------------------------------------
+
+* Source code in main repositories is covered by GPLv3:
+    - http://sourceforge.net/projects/eliteocr
+
+Executable is generated using pyinstaller and contains following components:
+    
+* Python 2.7 is covered by PSF LICENSE
+    - https://docs.python.org/2.7/license.html
+    - https://python.org/
+    
+* Numpy is licensed under the BSD license
+    - http://www.numpy.org/
+    
+* OpenCV is released under a BSD license
+    - http://opencv.org/
+    
+* python-tesseract is licensed under Apache License 2.0
+    - https://code.google.com/p/python-tesseract/
+    
+* PyQt4 is covered by GPLv3
+    - http://www.riverbankcomputing.co.uk/software/pyqt/intro
+
+* qimage2ndarray is released following license:
+    - https://github.com/hmeine/qimage2ndarray/blob/master/LICENSE.txt
+    - https://github.com/hmeine/qimage2ndarray
+    
+* openpyxl is licansed under MIT/Expat Licanse
+    - https://pypi.python.org/pypi/openpyxl 
+    
+* ezodf is licensed under MIT License
+    - https://pypi.python.org/pypi/ezodf
+    
+* lxml is licensed under BSD license
+    - http://lxml.de/
+    
+* python-Levenshtein is licensed under GNU GPL
+    - https://github.com/ztane/python-Levenshtein
