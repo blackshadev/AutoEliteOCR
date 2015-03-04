@@ -3,10 +3,10 @@ The results of eliteOCR will be stored in memory untill the program is told to
 write the data to a file.
 
 # Downloading
-Click [here](executable/AutoEliteOCR.exe) to download the latest version.
+Click download as zip, clone the repository with git or download from [this thread](https://forums.frontier.co.uk/showthread.php?t=116807&p=1878299#post1878299) 
 
 # Instructions
-Extract the .exe to a location of your choice. Double click to open.
+Extract the .exe (within the executable folder) to a location of your choice. Double click to open.
 
 **The program will start minimized in the system tray**, right click on the newly added icon to view the tray menu. 
 
